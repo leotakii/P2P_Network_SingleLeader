@@ -1,0 +1,6 @@
+shen 0
+zebolha 1
+montaro 2
+astor 3
+mutreta 4
+zippi 5
